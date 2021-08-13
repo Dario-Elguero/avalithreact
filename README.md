@@ -21,3 +21,12 @@ No se puede utilizar libreria de terceros
 No se puede utilizar typescript
 Se valora el uso es eslint
 Completar el array de productos con la informacion que deseen respetando las claves dadas.
+
+<h2>RESULTADO DEL DISEÑO Y ESTETICA (2 imagenes):</h2>
+<h3> 1 - Todos los Productos:</h3>
+<img src="./imgResult/all_products.png" alt="all_products">
+
+<hr>
+
+<h3> 2 - Toggle Activado - Productos con Stock:</h3>
+<img src="./imgResult/products_stock.png" alt="products_stock">
