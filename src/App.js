@@ -1,5 +1,5 @@
 import './App.css';
-import { Cataloge } from './component/Cataloge';
+import { Catalogue } from './component/catalogue/Catalogue';
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header className="header">
           PRODUCTOS - Avalith
       </header>
-         <Cataloge/>
+         <Catalogue/>
     </div>
   );
 }

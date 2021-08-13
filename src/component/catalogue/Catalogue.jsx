@@ -1,11 +1,11 @@
 
 import React, {useState, useEffect} from 'react'
-import { Product } from './Product'
-import productsDB from './db_products'
-import './cataloge.css'
+import { Product } from '../product/Product'
+import productsDB from '../db/db_products'
+import './catalogue.css'
 
 
-export const Cataloge = () => {
+export const Catalogue = () => {
     
     const [products, setProducts] = useState()
     
